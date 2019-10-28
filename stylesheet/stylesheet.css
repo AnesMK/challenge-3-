@@ -1,0 +1,10 @@
+body {
+	background-color: magenta;
+}
+header {
+	font-family: monospace;
+}
+input {
+	min-height:200px;
+	min-width:200px; 
+}
